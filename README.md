@@ -1,2 +1,2 @@
 #DEMO
-select characters
+select characters@@
